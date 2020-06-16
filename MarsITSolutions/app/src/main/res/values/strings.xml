@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mars IT Solutions</string>
+    <string name="img1">img1</string>
+    <string name="mars_it_solutions">Mars IT Solutions</string>
+    <string name="mob_01007835938">(+20)01007835938</string>
+    <string name="network_design_and_implementations">Infrastructure design and implementations</string>
+    <string name="mars_itsolutions_outlook_com">mars.itsolutions@outlook.com</string>
+    <string name="websites_creation">Websites creation</string>
+    <string name="mobile_applications">Mobile Applications</string>
+    <string name="and_much_more">And much more</string>
+</resources>

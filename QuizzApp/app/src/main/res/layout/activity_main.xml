@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imageView"
+            style="@style/image"
+            android:contentDescription="@string/q1ImgDescription"
+            android:src="@drawable/q_1"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.8"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/Q1"
+            style="@style/question"
+            android:text="@string/q1"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/imageView"
+            tools:ignore="MissingConstraints" />
+
+        <RadioGroup
+            android:id="@+id/Q1Answers"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/Q1">
+
+            <RadioButton
+                android:id="@+id/Q1Answer1"
+                style="@style/choices"
+                android:text="@string/a" />
+
+            <RadioButton
+                android:id="@+id/Q1Answer2"
+                style="@style/choices"
+                android:text="@string/b" />
+
+            <RadioButton
+                android:id="@+id/Q1Answer3"
+                style="@style/choices"
+                android:text="@string/d" />
+
+            <RadioButton
+                android:id="@+id/Q1Answer4"
+                style="@style/choices"
+                android:text="@string/e" />
+
+            <RadioButton
+                android:id="@+id/Q1Answer5"
+                style="@style/choices"
+                android:text="@string/f" />
+        </RadioGroup>
+
+        <View
+            android:id="@+id/vLine1"
+            style="@style/vLine"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/Q1Answers" />
+
+        <TextView
+            android:id="@+id/Q2"
+            style="@style/question"
+            android:text="@string/q2"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/vLine1"
+            tools:ignore="MissingConstraints" />
+
+        <RadioGroup
+            android:id="@+id/Q2Answers"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/Q2">
+
+            <RadioButton
+                android:id="@+id/Q2Answer1"
+                style="@style/choices"
+                android:text="@string/shark" />
+
+            <RadioButton
+                android:id="@+id/Q2Answer2"
+                style="@style/choices"
+                android:text="@string/deer" />
+
+            <RadioButton
+                android:id="@+id/Q2Answer3"
+                style="@style/choices"
+                android:text="@string/cow" />
+
+            <RadioButton
+                android:id="@+id/Q2Answer4"
+                style="@style/choices"
+                android:text="@string/dog" />
+
+            <RadioButton
+                android:id="@+id/Q2Answer5"
+                style="@style/choices"
+                android:text="@string/lion" />
+        </RadioGroup>
+
+        <View
+            android:id="@+id/vLine2"
+            style="@style/vLine"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/Q2Answers" />
+
+        <TextView
+            android:id="@+id/Q3"
+            style="@style/question"
+            android:text="@string/q3"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/vLine2"
+            tools:ignore="MissingConstraints" />
+
+        <RadioGroup
+            android:id="@+id/Q3Answers"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/Q3">
+
+            <RadioButton
+                android:id="@+id/Q3Answer1"
+                style="@style/choices"
+                android:text="@string/one_block" />
+
+            <RadioButton
+                android:id="@+id/Q3Answer2"
+                style="@style/choices"
+                android:text="@string/two_blocks" />
+
+            <RadioButton
+                android:id="@+id/Q3Answer3"
+                style="@style/choices"
+                android:text="@string/three_blocks" />
+
+            <RadioButton
+                android:id="@+id/Q3Answer4"
+                style="@style/choices"
+                android:text="@string/four_blocks" />
+        </RadioGroup>
+
+        <View
+            android:id="@+id/vLine3"
+            style="@style/vLine"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/Q3Answers" />
+
+        <TextView
+            android:id="@+id/Q4"
+            style="@style/question"
+            android:text="@string/q4"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/vLine3"
+            tools:ignore="MissingConstraints" />
+
+        <EditText
+            android:id="@+id/Q4Answer"
+            style="@style/editText"
+            android:hint="@string/type_the_answer_here"
+            android:importantForAutofill="no"
+            android:inputType="textCapWords"
+            app:layout_constraintTop_toBottomOf="@id/Q4"
+            tools:ignore="MissingConstraints" />
+
+        <View
+            android:id="@+id/vLine4"
+            style="@style/vLine"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/Q4Answer" />
+
+        <TextView
+            android:id="@+id/Q5"
+            style="@style/question"
+            android:text="@string/_5_egypt_has"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/vLine4"
+            tools:ignore="MissingConstraints" />
+
+        <CheckBox
+            android:id="@+id/Q5Answer1"
+            style="@style/choices"
+            android:text="@string/day"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/Q5"
+            tools:ignore="MissingConstraints" />
+
+        <CheckBox
+            android:id="@+id/Q5Answer2"
+            style="@style/choices"
+            android:text="@string/night"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/Q5Answer1"
+            tools:ignore="MissingConstraints" />
+
+        <Button
+            style="@style/button"
+            android:onClick="answersEvaluation"
+            android:text="@string/submit"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/Q5Answer2" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

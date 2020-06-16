@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="team_a">Team A</string>
+    <string name="_0">0</string>
+    <string name="reset">Reset</string>
+    <string name="team_b">Team B</string>
+    <string name="american_football">American Football</string>
+    <string name="touchdown_n6_points">Touchdown +6 Points</string>
+    <string name="field_goal_n_3_points">Field goal +3 Points</string>
+    <string name="extra_1_point">Extra +1 Point</string>
+    <string name="extra_2_points">Extra +2 Points</string>
+    <string name="safety_2_points">Safety +2 Points</string>
+</resources>

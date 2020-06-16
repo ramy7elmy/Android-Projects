@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f47100</color>
+    <color name="colorPrimaryDark">#ff9e22</color>
+    <color name="colorAccent">#ff9e22</color>
+
+    <!-- Background color for app -->
+
+    <!-- Background color for the hotels category -->
+    <color name="fragment_hotels">#ff9e22</color>
+
+    <!-- Background color for the restaurants category -->
+    <color name="fragment_restaurants">#379237</color>
+
+    <!-- Background color for the parks category -->
+    <color name="fragment_parks">#8800A0</color>
+
+    <!-- Background color for the historical category -->
+    <color name="fragment_historical">#16AFCA</color>
+</resources>

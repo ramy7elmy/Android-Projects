@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Egypt Tour Guide</string>
+
+    <!-- Category name for Hotels tab [CHAR LIMIT=20] -->
+    <string name="fragment_hotels">Hotels</string>
+
+    <!-- Category name for Restaurants tab [CHAR LIMIT=20] -->
+    <string name="fragment_restaurants">Restaurants</string>
+
+    <!-- Category name for Parks tab [CHAR LIMIT=20] -->
+    <string name="fragment_parks">Parks</string>
+
+    <!-- Category name for Historical tab [CHAR LIMIT=20] -->
+    <string name="fragment_historical">Historical</string>
+    <string name="his1n">Khan el Khalili Bazaar</string>
+    <string name="his1a">Khan El Khalili, Cairo, Egypt</string>
+    <string name="his2n">Birqash Camel Market</string>
+    <string name="his2a">Birqash, Imbaba, Cairo, Egypt</string>
+    <string name="his3n">The City of the Dead</string>
+    <string name="his3a">7 El Bab El Sharqy Street, Cairo, Egypt</string>
+    <string name="his4n">Mosque of Ahmad Ibn Tulun</string>
+    <string name="his4a">El-Darb El-Ahmar, Cairo, Egypt</string>
+    <string name="his5n">The Egyptian Museum</string>
+    <string name="his5a">15 Meret Basha, Cairo Governorate, Egypt</string>
+    <string name="his6n">Giza Pyramids</string>
+    <string name="his6a">Giza, Egypt</string>
+    <string name="his7n">Abu Simbel - Luxor</string>
+    <string name="his7a">Luxor, Egypt</string>
+    <string name="hot1n">Four Seasons Cairo At The First Residence</string>
+    <string name="hot1a">35 Giza St, Cairo 12311, Egypt</string>
+    <string name="hot1p">+20 235 671 600</string>
+    <string name="hot2n">The Nile Ritz-Carlton Cairo</string>
+    <string name="hot2a">1113 Corniche El Nil, Cairo 11221, Egypt</string>
+    <string name="hot2p">+20 225 778 899</string>
+    <string name="hot3n">Intercontinental Hotels Citystars Cairo</string>
+    <string name="hot3a">Omar Ibn El Khattab Street, P.O. Box 1026, Cairo 11737, Egypt</string>
+    <string name="hot3p">+20 800-863-7818</string>
+    <string name="hot4n">JW Marriott Hotel Cairo</string>
+    <string name="hot4a">Ring Road- Mirage City- P.O.Box 427, Heliopolis, Cairo 11757, Egypt</string>
+    <string name="hot4p">+20 224 115 588</string>
+    <string name="hot5n">Staybridge Suites Cairo - Citystars</string>
+    <string name="hot5a">Emtedad Makram Obeid Street, Cairo 11737, Egypt</string>
+    <string name="hot5p">+20 224 803 333</string>
+    <string name="hot6n">Guardian Guest House</string>
+    <string name="hot6a">1 Abou al hool street, Cairo 12561, Egypt</string>
+    <string name="hot6p">+20 125 436 309</string>
+    <string name="hot7n">Steigenberger Hotel El Tahrir</string>
+    <string name="hot7a">2, Kasr El Nil Street, Cairo, Egypt</string>
+    <string name="hot7p">+20 225 750 777</string>
+    <string name="p1n">Orman Park</string>
+    <string name="p1a">Square, Oula, Giza, Giza Governorate</string>
+    <string name="p2n">Safari Park</string>
+    <string name="p2a">Al Matar, Imbaba, Giza Governorate</string>
+    <string name="p3n">International Park</string>
+    <string name="p3a">Nasr City, Cairo</string>
+    <string name="p4n">Family park</string>
+    <string name="p4a">Rehab Gate 2, Suez Rd, New Cairo</string>
+    <string name="p5n">Al-Fonoun Park (Arts Park)</string>
+    <string name="p5a">Abdul Aziz Al Sooudstreet, Al Manial, Giza</string>
+    <string name="p6n">Om Kolthoum Park</string>
+    <string name="p6a">Abdul Aziz Al Sooudstreet, Al Manial, Giza</string>
+    <string name="p7n">Gezira Park</string>
+    <string name="p7a">Opera Square, Zamalek</string>
+    <string name="r1n">Bella</string>
+    <string name="r1a">Four Seasons Hotel Cairo at Nile Plaza, Cairo 11519</string>
+    <string name="r1p">+20 227 917 000</string>
+    <string name="r2n">L\'Uliveto Italian Restaurant</string>
+    <string name="r2a">2005 B Corniche El Nil, Cairo</string>
+    <string name="r2p">+20 224 619 494</string>
+    <string name="r3n">Pane Vino - InterContinental Cairo Semiramis</string>
+    <string name="r3a">Corniche El Nil, Cairo 11511</string>
+    <string name="r3p">+20 227 988 000</string>
+    <string name="r4n">Bab El-Sharq - The Nile Ritz-Carlton</string>
+    <string name="r4a">1113 Corniche El Nil, Cairo 11511</string>
+    <string name="r4p">+20 225 778 899</string>
+    <string name="r5n">Scores Sports Bar</string>
+    <string name="r5a">29 Corniche El Nil, Cairo 11511</string>
+    <string name="r5p">+20 225 260 601</string>
+    <string name="r6n">Star Corner Holiday Inn Citystars Cairo</string>
+    <string name="r6a">Ali Rashid Street, Cairo 11757</string>
+    <string name="r6p">+20 224 800 100</string>
+    <string name="r7n">Aura @ Four Seasons Hotel Cairo at The First Residence</string>
+    <string name="r7a">Four Seasons Hotel Cairo at The First Residence, Cairo 12311</string>
+    <string name="r7p">+20 235 671 600</string>
+    <string name="zoom_value">\?z=17</string>
+</resources>

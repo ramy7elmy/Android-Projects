@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EF5350</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorAccent">#EF5350</color>
+
+    <!-- Categories colors. -->
+    <color name="footballCatColor">@android:color/holo_green_light</color>
+    <color name="politicsCatColor">@android:color/holo_blue_light</color>
+    <color name="newsCatColor">@android:color/holo_red_light</color>
+    <color name="sportCatColor">@android:color/holo_purple</color>
+    <color name="defaultCatColor">@android:color/holo_green_dark</color>
+
+    <!-- Category text color. -->
+    <color name="categoryTextColor">@android:color/white</color>
+
+    <!-- Title text color. -->
+    <color name="titleTextColor">@android:color/black</color>
+
+    <!-- App background color. -->
+
+</resources>

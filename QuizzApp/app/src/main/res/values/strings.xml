@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Quizz App</string>
+    <string name="q1">1. The black circle represents all Smaugs, the red circle represents all Toogs, and the green circle represents all Ficks.) Which region represents (Things that are all three: Smaugs, Ficks, and Toogs)?</string>
+    <string name="q1ImgDescription">Q1</string>
+    <string name="a">a</string>
+    <string name="b">b</string>
+    <string name="d">d</string>
+    <string name="e">e</string>
+    <string name="f">f</string>
+    <string name="submit">Submit</string>
+    <string name="q2">2. Which one of the five is least like the other four?</string>
+    <string name="shark">Shark</string>
+    <string name="deer">Deer</string>
+    <string name="cow">Cow</string>
+    <string name="dog">Dog</string>
+    <string name="lion">Lion</string>
+    <string name="q3">3. Ralph travels four blocks north, then two blocks east, then three blocks south and finally two blocks west. How many blocks is Ralph from his starting place?</string>
+    <string name="four_blocks">Four blocks</string>
+    <string name="three_blocks">Three blocks</string>
+    <string name="two_blocks">Two blocks</string>
+    <string name="one_block">One block</string>
+    <string name="q4">4. If you rearrange the letters \"ANICH\", you would have the name of a/an:\n(Country, Ocean, State, City, or Animal)?</string>
+    <string name="type_the_answer_here">Type the answer here</string>
+    <string name="_5_egypt_has">5. Egypt has:</string>
+    <string name="day">Day</string>
+    <string name="night">Night</string>
+    <string name="correctAnswers">Correct answers</string>
+    <string name="wrongAnswers">Wrong answers</string>
+</resources>

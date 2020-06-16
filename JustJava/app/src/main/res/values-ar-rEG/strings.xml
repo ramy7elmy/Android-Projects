@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="your_name">الاسم</string>
+    <string name="quantity">الكمية</string>
+    <string name="price">السعر</string>
+    <string name="toppings">الاضافات</string>
+    <string name="order">طلب</string>
+    <string name="order_summary">ملخص الطلب</string>
+    <string name="chocolate">شكولاتة</string>
+    <string name="whipped_cream">كريمة</string>
+    <string name="_order">طلب</string>
+    <string name="addCream">اضافة كريمة؟</string>
+    <string name="Name_is">الاسم:</string>
+    <string name="total_is">الاجمالى:$</string>
+    <string name="quantity_is">الكمية:</string>
+    <string name="addChocolate">اضافة شوكولاتة؟</string>
+    <string name="thankYou">شكرا !</string>
+    <string name="maxQuantity">اقصى كمية 10</string>
+    <string name="minQuantity">اقل كمية 1</string>
+</resources>

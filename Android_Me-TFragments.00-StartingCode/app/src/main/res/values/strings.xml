@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android_Me</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="body">Body</string>
+    <string name="head">Head</string>
+    <string name="leg">Leg</string>
+    <string name="screen_size">phone</string>
+</resources>

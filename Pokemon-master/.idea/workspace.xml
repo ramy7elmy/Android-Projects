@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a61890e5-4402-4997-8ab6-6f4c6c2ecf6d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/.idea/render.experimental.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/ic_launcher-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/java/com/example/android/egypttourguide/HistoricalFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/java/com/example/android/egypttourguide/HotelsFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/java/com/example/android/egypttourguide/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/java/com/example/android/egypttourguide/ParksFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/java/com/example/android/egypttourguide/Place.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/java/com/example/android/egypttourguide/PlacesAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/java/com/example/android/egypttourguide/RestaurantsFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/java/com/example/android/egypttourguide/SimpleFragmentPagerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-hdpi/baseline_location_searching_white_18dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-hdpi/hbc_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-hdpi/hcof_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-hdpi/hem_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-hdpi/hit_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-hdpi/hkk_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-hdpi/hlx_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-hdpi/hofs_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-hdpi/hogg_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-hdpi/hoics_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-hdpi/hojw_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-hdpi/honr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-hdpi/hosh_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-hdpi/hoss_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-hdpi/hpy_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-hdpi/pfnp_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-hdpi/pfp_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-hdpi/pgzp_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-hdpi/pip_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-hdpi/pom_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-hdpi/pomk_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-hdpi/psp_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-hdpi/rafr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-hdpi/rbr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-hdpi/rbsr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-hdpi/rlur_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-hdpi/rpvr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-hdpi/rscr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-hdpi/rssr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-mdpi/baseline_location_searching_white_18dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-mdpi/hbc_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-mdpi/hcof_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-mdpi/hem_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-mdpi/hit_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-mdpi/hkk_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-mdpi/hlx_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-mdpi/hofs_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-mdpi/hogg_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-mdpi/hoics_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-mdpi/hojw_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-mdpi/honr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-mdpi/hosh_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-mdpi/hoss_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-mdpi/hpy_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-mdpi/pfnp_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-mdpi/pfp_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-mdpi/pgzp_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-mdpi/pip_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-mdpi/pom_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-mdpi/pomk_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-mdpi/psp_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-mdpi/rafr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-mdpi/rbr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-mdpi/rbsr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-mdpi/rlur_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-mdpi/rpvr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-mdpi/rscr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-mdpi/rssr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xhdpi/baseline_location_searching_white_18dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xhdpi/hbc_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xhdpi/hcof_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xhdpi/hem_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xhdpi/hit_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xhdpi/hkk_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xhdpi/hlx_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xhdpi/hofs_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xhdpi/hogg_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xhdpi/hoics_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xhdpi/hojw_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xhdpi/honr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xhdpi/hosh_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xhdpi/hoss_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xhdpi/hpy_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xhdpi/pfnp_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xhdpi/pfp_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xhdpi/pgzp_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xhdpi/pip_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xhdpi/pom_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xhdpi/pomk_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xhdpi/psp_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xhdpi/rafr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xhdpi/rbr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xhdpi/rbsr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xhdpi/rlur_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xhdpi/rpvr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xhdpi/rscr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xhdpi/rssr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxhdpi/baseline_location_searching_white_18dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxhdpi/hbc_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxhdpi/hcof_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxhdpi/hem_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxhdpi/hit_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxhdpi/hkk_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxhdpi/hlx_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxhdpi/hofs_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxhdpi/hogg_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxhdpi/hoics_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxhdpi/hojw_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxhdpi/honr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxhdpi/hosh_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxhdpi/hoss_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxhdpi/hpy_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxhdpi/pfnp_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxhdpi/pfp_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxhdpi/pgzp_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxhdpi/pip_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxhdpi/pom_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxhdpi/pomk_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxhdpi/psp_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxhdpi/rafr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxhdpi/rbr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxhdpi/rbsr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxhdpi/rlur_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxhdpi/rpvr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxhdpi/rscr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxhdpi/rssr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxxhdpi/baseline_location_searching_white_18dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxxhdpi/hbc_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxxhdpi/hcof_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxxhdpi/hem_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxxhdpi/hit_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxxhdpi/hkk_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxxhdpi/hlx_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxxhdpi/hofs_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxxhdpi/hogg_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxxhdpi/hoics_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxxhdpi/hojw_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxxhdpi/honr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxxhdpi/hosh_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxxhdpi/hoss_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxxhdpi/hpy_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxxhdpi/pfnp_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxxhdpi/pfp_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxxhdpi/pgzp_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxxhdpi/pip_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxxhdpi/pom_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxxhdpi/pomk_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxxhdpi/psp_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxxhdpi/rafr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxxhdpi/rbr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxxhdpi/rbsr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxxhdpi/rlur_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxxhdpi/rpvr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxxhdpi/rscr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/drawable-xxxhdpi/rssr_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/layout/places_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/layout/places_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EgyptTourGuide/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_common_1_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_common_1_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_26_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_2_2_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_2_2_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_exposed_instrumentation_api_publish_0_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_rules_0_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_runner_0_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_annotation_javax_annotation_api_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ud843-QuakeReport-starting-point/app/src/main/res/drawable/magnitude_circle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/layout/fragment_colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/layout/fragment_family.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/layout/fragment_numbers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ud839_Miwok-Starter-code/app/src/main/res/layout/fragment_phrases.xml" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="02798107AF050028" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/udacity/pokemon/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/list_item.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/udacity/pokemon/HttpHandler.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/udacity/pokemon/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/list_item.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Pokemon-master" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="Pokemon-master" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="Pokemon-master" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="pokemon" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pokemon-master" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="Pokemon-master" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="Pokemon-master" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="ping google.com" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a61890e5-4402-4997-8ab6-6f4c6c2ecf6d" name="Default Changelist" comment="" />
+      <created>1573990367560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573990367560</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.19591528" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Resources Explorer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.9489796" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="Android Profiler" />
+      <window_info anchor="bottom" id="Find" weight="0.32993197" />
+      <window_info anchor="bottom" id="Run" order="0" weight="0.32993197" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Debug" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.32993197" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info active="true" anchor="right" id="Preview" visible="true" weight="0.32980332" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.19591528" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Resources Explorer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Logcat" order="0" />
+      <window_info anchor="bottom" id="Android Profiler" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32993197" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.32993197" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-265">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="77" selection-start-line="4" selection-start-column="77" selection-end-line="4" selection-end-column="77" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/udacity/pokemon/HttpHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/udacity/pokemon/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/list_item.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Pokemon-master</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

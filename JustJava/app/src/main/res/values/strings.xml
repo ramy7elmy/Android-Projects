@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" translatable="false">Just Java</string>
+    <string name="quantity">Quantity</string>
+    <string name="order">Order</string>
+    <string name="price">Price</string>
+    <string name="price5" translatable="false">$5.00</string>
+    <string name="plus" translatable="false">+</string>
+    <string name="minus" translatable="false">-</string>
+    <string name="_1" translatable="false">1</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="your_name">Your Name</string>
+    <string name="Name_is">"Name:"</string>
+    <string name="our_email" translatable="false">mars.itsolutions@outlook.com</string>
+    <string name="_order"> Order</string>
+    <string name="addCream">Add whipped cream?</string>
+    <string name="addChocolate">Add chocolate?</string>
+    <string name="total_is">Total:</string>
+    <string name="quantity_is">Quantity:</string>
+    <string name="thankYou">Thank You !</string>
+    <string name="minQuantity">Minimum quantity is 1</string>
+    <string name="maxQuantity">Max quantity is 10</string>
+    <string name="zeros" translatable="false">:00</string>
+</resources>

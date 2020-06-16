@@ -1,0 +1,64 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#C2185B</item>
+        <item name="colorPrimaryDark">#E91E63</item>
+        <item name="colorAccent">#E91E63</item>
+        <item name="colorButtonNormal">#E91E63</item>
+    </style>
+
+    <!-- Image style. -->
+    <style name="image">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">18dp</item>
+    </style>
+
+    <!-- Question style. -->
+    <style name="question">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">18dp</item>
+        <item name="android:fontFamily" tools:targetApi="jelly_bean">sans-serif-black</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textAlignment" tools:targetApi="jelly_bean_mr1">textStart</item>
+    </style>
+
+    <!-- Choices style. -->
+    <style name="choices">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">18dp</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:fontFamily" tools:targetApi="jelly_bean">sans-serif-black</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textAlignment" tools:targetApi="jelly_bean_mr1">textStart</item>
+    </style>
+
+    <!-- Vertical line style. -->
+    <style name="vLine">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">2dp</item>
+        <item name="android:layout_margin">16dp</item>
+        <item name="android:background">@android:color/darker_gray</item>
+    </style>
+
+    <!-- Edit text style. -->
+    <style name="editText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">16dp</item>
+    </style>
+
+    <!-- Button style. -->
+    <style name="button">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">16dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+</resources>

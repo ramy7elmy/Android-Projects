@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Category. -->
+    <dimen name="categoryLayout_width">0dp</dimen>
+    <dimen name="categoryPadding">8dp</dimen>
+
+    <!-- Title. -->
+    <dimen name="titlePadding">8dp</dimen>
+
+    <!-- Date. -->
+    <dimen name="datePadding">8dp</dimen>
+
+</resources>

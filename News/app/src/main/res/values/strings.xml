@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+
+    <!-- Messages Preferences -->
+
+    <!-- Sync Preferences -->
+    <string name="test">Test</string>
+    <string name="category_test">Sport</string>
+    <string name="title_test">Davis Cup 2019: Great Britain v Germany quarter-final – live!</string>
+    <string name="date_test">2019–11–22T19:37:51Z</string>
+    <string name="no_internet">No internet detected.</string>
+    <string name="no_news">No news found.</string>
+
+    <!-- Sync Preferences -->
+    <string name="news_cat">News category</string>
+    <string name="section_key" translatable="false">section</string>
+    <string name="section_def_value" translatable="false">football</string>
+    <string name="ramy_helmy">Ramy Helmy</string>
+
+</resources>
